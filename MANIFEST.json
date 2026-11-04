@@ -1,0 +1,21 @@
+{
+  "manifest_version": "0.1.0",
+  "name": "rumu",
+  "kind": "cell",
+  "role": "держатель имени РУМУ — клетка-указатель: тело живёт веткой rumu в singulyar (cinema, catalog, cord, autopilot)",
+  "license": "MIT",
+  "membrane": {
+    "human": "README.md",
+    "agents": "AGENTS.md",
+    "machines": "llms.txt"
+  },
+  "metabolism": {
+    "verify": "пин тела сверяется живым git ls-remote в ядре (make pins); своего CI у клетки-указателя нет"
+  },
+  "body": {
+    "pointer": "https://github.com/rtynbirf/singulyar/tree/rumu",
+    "body_pin": "30bcf37b956eacbc59c39555b071bd92a1b6b536",
+    "body_checked": "2026-11-05"
+  },
+  "laws_ref": "пять законов роя: README.md и docs/adr/ ядра (cell-swarm)"
+}
