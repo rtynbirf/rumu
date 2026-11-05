@@ -7,7 +7,7 @@
 «Руму» — держатель имени РУМУ. Тело клетки (плеер: `cinema.html`,
 `catalog.js`, `cord.js`, `autopilot_client.js`) живёт веткой `rumu`
 репозитория singulyar: https://github.com/rtynbirf/singulyar/tree/rumu
-(пин b389ac91 на 2026-11-05; живой пин — геном ядра, `make pins`).
+(пин 0852eed8 на 2026-11-05; живой пин — геном ядра, `make pins`).
 Этот репозиторий — имя и мембрана; контента здесь нет (честная заглушка, см. README.md).
 
 ## Порядок чтения
