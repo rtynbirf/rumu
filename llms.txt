@@ -2,7 +2,7 @@
 
 > Держатель имени РУМУ. Тело клетки (плеер P2P + autopilot) живёт веткой
 > `rumu` репозитория singulyar: https://github.com/rtynbirf/singulyar/tree/rumu
-> (пин b389ac91 на 2026-11-05; живой пин — геном cell-swarm/swarm.json).
+> (пин 0852eed8 на 2026-11-05; живой пин — геном cell-swarm/swarm.json).
 > Этот репозиторий контента не содержит — только имя и мембрана.
 
 - ДНК клетки: MANIFEST.json
