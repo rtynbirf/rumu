@@ -14,8 +14,8 @@
   },
   "body": {
     "pointer": "https://github.com/rtynbirf/singulyar/tree/rumu",
-    "body_pin": "883bcc429a689d4ee736deafeeaeebed0e93c173",
-    "body_checked": "2026-11-06",
+    "body_pin": "72db61978b584d49e0d344d88ebc1b591b4aafe0",
+    "body_checked": "2026-11-07",
     "note": "живой пин тела — геном ядра (cell-swarm/swarm.json, make pins); здесь — сверенная копия на дату membrane"
   },
   "laws_ref": "пять законов роя: README.md и docs/adr/ ядра (cell-swarm)"
