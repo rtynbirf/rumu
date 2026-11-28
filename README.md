@@ -1,26 +1,36 @@
+<div align="center">
+
+<a href="https://github.com/rtynbirf/rumu"><img src="banner.png" width="100%" alt="rumu — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/rumu@main/repo-muse.svg" width="100%" alt="Муза rumu: мастерская САРКОФАГ · УДЖАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/rumu@main/forge-divider.svg" width="62%" alt="делитель мастерской САРКОФАГ · УДЖАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
+<!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
+<div align="center">
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы rumu №63 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
+</div>
+
+| ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
+|---:|---:|---:|---|---:|
+| 29 | 4 | 1 | 2026-11-28 | 1 |
+<!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
 > ⚰️ **САРКОФАГ (2026-11-08).** Тело клетки перенесено: ветка [`rumu`](https://github.com/rtynbirf/singulyar/tree/rumu) репозитория `singulyar`. Пин тела: MANIFEST.json (`body.body_pin`) — сверяется оракулом singulyar. Этот репо — носитель пина, спит и не принимает пушей. Просыпается по слову Хозяина.
 
 # СИНГУЛЯР РУМУ — честная заглушка
 
 <p align="center"><img src=".github/social-preview.png" alt="rumu" width="100%"></p>
 
-<!--ФОРЖ:МУЗА:НАЧАЛО-->
-<div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза rumu: мастерская САРКОФАГ · УДЖАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
-  <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской САРКОФАГ · УДЖАТ" />
-</div>
-<!--ФОРЖ:МУЗА:КОНЕЦ-->
 
-<!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
-<div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы rumu: строение файлов, лексикон, числа — по фактическому контенту" />
-</div>
 
-| ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
-|---:|---:|---:|---|---:|
-| 19 | 2 | 37 | 2026-11-16 | 1 |
-<!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
 
 
 
