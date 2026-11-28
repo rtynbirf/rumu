@@ -22,6 +22,18 @@
 | 29 | 4 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
 
+# rumu
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/rumu"><img src="banner.png" width="100%" alt="rumu — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
+
 > ⚰️ **САРКОФАГ (2026-11-08).** Тело клетки перенесено: ветка [`rumu`](https://github.com/rtynbirf/singulyar/tree/rumu) репозитория `singulyar`. Пин тела: MANIFEST.json (`body.body_pin`) — сверяется оракулом singulyar. Этот репо — носитель пина, спит и не принимает пушей. Просыпается по слову Хозяина.
 
 # СИНГУЛЯР РУМУ — честная заглушка
